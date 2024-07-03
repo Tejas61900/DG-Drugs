@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bhallataka Drug</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        .info {
+            margin-bottom: 30px;
+        }
+        .info p {
+            margin-bottom: 15px;
+        }
+        .properties {
+            margin-bottom: 30px;
+        }
+        .properties ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Bhallataka Drug</h1>
+        </header>
+        
+        <img src="bhallataka.jpg" alt="Bhallataka Tree and Fruits">
+
+        <div class="info">
+            <h2>Introduction</h2>
+            <p>Bhallataka is one of the most powerful and fast acting Ayurvedic herbs. It is used extensively in piles, skin diseases, etc. Its botanical name is <em>Semecarpus anacardium</em>. It belongs to Anacardaceae family (Amra Kula). Since it is very hot in potency, it is used only after purification procedures.</p>
+
+            <h2>Names in Different Languages</h2>
+            <p><strong>Hindi:</strong> Bhilawa, belatak, bhela, bhilava<br>
+            <strong>English:</strong> Marking nut, Ink nuts<br>
+            <strong>Tamil:</strong> cenkottai, arutkaram, ceraankottai, erimuki, sengottai, seraangottai<br>
+            <strong>Kannada:</strong> aginimukhi, bhallataka, chera, gerkayi, kerubija<br>
+            <strong>Malayalam:</strong> alakkuceru, cera, cerkkotta, shengotta, thenkotta<br>
+            <strong>Urdu:</strong> baladur, bhilanvana<br>
+            <strong>Persian:</strong> biladur<br>
+            <strong>Arab:</strong> beladin, hab-el-kalb<br>
+            <strong>Telugu:</strong> bhallaathaki, gudova, jeedi, thummeda maamidi, shenta, simidi<br>
+            <strong>Marathi:</strong> bibba, bibha, bibo, bibwa</p>
+
+            <h2>Classical Categorization</h2>
+            <p>Charaka – Deepaneeya, Bhedaniya, Kushtaghna, Mutrasangrahaneeya<br>
+            Sushruta and Vagbhata – Nyagrodhadi, Mustadi gana<br>
+            Bh. pr. Ni – Hareetakyadi varga</p>
+        </div>
+
+        <div class="properties">
+            <h2>Medicinal Properties</h2>
+            <ul>
+                <li><strong>Rasa (taste):</strong> Katu (pungent), Tikta (bitter), Kashaya (astringent)</li>
+                <li><strong>Guna (qualities):</strong> Laghu (light to digest), Teekshna (piercing), Snigdha (unctuous)</li>
+                <li><strong>Vipaka:</strong> Madhura (undergoes sweet taste conversion after digestion)</li>
+                <li><strong>Veerya:</strong> Ushna (hot in potency)</li>
+            </ul>
+        </div>
+
+        <div class="therapeutic-uses">
+            <h2>Therapeutic Uses</h2>
+            <p>There is no Kapha imbalance disease, no constipation, which can’t be cured by Bhallataka. It improves intelligence and promotes digestion. Khadira seeds help to treat all skin diseases. Similarly, all hemorrhoids can be well treated using Bhallataka. In case of cerebral infarction, Bhallataka is used.</p>
+        </div>
+
+        <footer>
+            <p>Source: Adapted from Ayurvedic texts and resources</p>
+        </footer>
+    </div>
+</body>
+</html>
